@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+.pytest_cache/
+.clawhub/
+.publish-stash/
+_install_test/
+_install_test/
