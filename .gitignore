@@ -5,3 +5,6 @@
 .publish-stash/
 _install_test/
 _install_test/
+
+# Upgrade v1: never commit caches or partial downloads
+*.part
